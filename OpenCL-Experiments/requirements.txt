@@ -1,0 +1,6 @@
+PIL==1.1.7
+Pillow==2.7.0
+PyOpenGL==3.1.0
+numpy==1.6.2
+pyopencl==2015.1
+scipy==0.11.0
